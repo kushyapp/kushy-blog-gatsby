@@ -11,9 +11,6 @@ import SEO from '../components/SEO';
 import Cover from '../components/Cover';
 import Comments from '../components/Comments';
 import PostLoop from '../components/PostLoop';
-import Twitter from '../components/icons/Twitter'
-import Tumblr from '../components/icons/Tumblr'
-import ryosukeAvatar from '../assets/img/ryosuke-avatar-128.png'
 
 export default class BlogPost extends Component {
 

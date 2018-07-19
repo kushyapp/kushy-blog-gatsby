@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `Ryosuke`,
-    description: `The portfolio and blog of Ryosuke`,
-    siteUrl: `http://whoisryosuke.com/`,
+    title: `Kushy Blog`,
+    description: `The official blog for Kushy.net`,
+    siteUrl: `http://blog.kushy.net/`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
@@ -118,7 +118,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
-        trackingId: "UA-116899380-1",
+        trackingId: "UA-90467123-2",
         // Puts tracking script in the head instead of the body
         head: false,
         // Setting this parameter is optional
