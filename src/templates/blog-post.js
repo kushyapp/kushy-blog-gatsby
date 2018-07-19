@@ -87,10 +87,10 @@ export default class BlogPost extends Component {
       <li key={tag}><Link to={'/tags/' + kebabCase(tag) }>#{ tag }</Link></li>
     ));
 
-    let postImage = post.frontmatter.cover_image.publicURL;
+    let postImage = post.frontmatter.cover_image ? post.frontmatter.cover_image.publicURL : '';
     let postDate = new Date(post.frontmatter.date);
 
-    if (post.frontmatter.cover_image.childImageSharp !== null) {
+    if (post.frontmatter.cover_image && post.frontmatter.cover_image.childImageSharp !== null) {
       postImage = post.frontmatter.cover_image.childImageSharp && post.frontmatter.cover_image.childImageSharp.sizes && post.frontmatter.cover_image.childImageSharp.sizes.src;
     }
 

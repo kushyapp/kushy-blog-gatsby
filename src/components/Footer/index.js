@@ -1,12 +1,5 @@
 import React from "react";
 
-import Twitter from '../../components/icons/Twitter';
-import Instagram from '../../components/icons/Instagram';
-import Github from '../../components/icons/Github';
-import Hashnode from '../../components/icons/Hashnode';
-import Tumblr from '../../components/icons/Tumblr';
-import Behance from '../../components/icons/Behance';
-
 export default () => {
     return (
         <footer className="Footer ui container menu secondary">
