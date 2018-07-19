@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>http://blog.kushy.net//blog</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://blog.kushy.net//blog/2017/integrating-crowd-sourced-cannabis-from-tumblr/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://blog.kushy.net//blog/2017/kushy-blog-is-alive/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://blog.kushy.net//blog/2017/the-start-of-the-future/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://blog.kushy.net//blog/2018/introducing-kushy-metrc-php-sdk/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://blog.kushy.net//tags/spotlight/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://blog.kushy.net//tags/developers/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://blog.kushy.net//tags/blog/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://blog.kushy.net//tags/kirby/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://blog.kushy.net//tags/cms/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://blog.kushy.net//tags/announcements/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://blog.kushy.net//tags/tools/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://blog.kushy.net//</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://blog.kushy.net//tags/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+</urlset>

@@ -1,0 +1,2 @@
+webpackJsonp([62088955212137],{400:function(t,o){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Integrating Crowd Sourced Cannabis from Tumblr",cover_image:null,date:"2017-12-10"},fields:{slug:"/blog/2017/integrating-crowd-sourced-cannabis-from-tumblr/"},excerpt:"How do you get pictures of over 9,000 cannabis strains? You could start a very long and expensive journey of buying and documenting…"}}]}},pathContext:{tag:"spotlight"}}}});
+//# sourceMappingURL=path---tags-spotlight-e6212ad74cc9404801f5.js.map
