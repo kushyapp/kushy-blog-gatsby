@@ -5,6 +5,7 @@
 <url> <loc>http://blog.kushy.net//blog/2017/kushy-blog-is-alive/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://blog.kushy.net//blog/2017/the-start-of-the-future/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://blog.kushy.net//blog/2018/introducing-kushy-metrc-php-sdk/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://blog.kushy.net//blog/2018/the-future-of-the-kushy-api/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://blog.kushy.net//tags/spotlight/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://blog.kushy.net//tags/developers/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://blog.kushy.net//tags/blog/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -12,6 +13,7 @@
 <url> <loc>http://blog.kushy.net//tags/cms/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://blog.kushy.net//tags/announcements/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://blog.kushy.net//tags/tools/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://blog.kushy.net//tags/api/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://blog.kushy.net//</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://blog.kushy.net//tags/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 </urlset>

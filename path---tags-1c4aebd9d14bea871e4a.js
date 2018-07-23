@@ -1,0 +1,2 @@
+webpackJsonp([55702396619907],{406:function(t,l){t.exports={data:{site:{siteMetadata:{title:"Kushy Blog"}},allMarkdownRemark:{group:[{fieldValue:"announcements",totalCount:4},{fieldValue:"api",totalCount:1},{fieldValue:"blog",totalCount:1},{fieldValue:"cms",totalCount:1},{fieldValue:"developers",totalCount:3},{fieldValue:"kirby",totalCount:1},{fieldValue:"spotlight",totalCount:1},{fieldValue:"tools",totalCount:1}]}},pathContext:{}}}});
+//# sourceMappingURL=path---tags-1c4aebd9d14bea871e4a.js.map
