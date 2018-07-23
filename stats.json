@@ -9,12 +9,12 @@
       "component---src-pages-index-js-6ebd377c7e260353f8ac.js.map"
     ],
     "path---blog": [
-      "path---blog-981f1efbbd94181628a0.js",
-      "path---blog-981f1efbbd94181628a0.js.map"
+      "path---blog-3c7a1dcaa109497185be.js",
+      "path---blog-3c7a1dcaa109497185be.js.map"
     ],
     "path---tags-announcements": [
-      "path---tags-announcements-a2f93d2cb44f32dc076c.js",
-      "path---tags-announcements-a2f93d2cb44f32dc076c.js.map"
+      "path---tags-announcements-a832b3c3b618116ec11c.js",
+      "path---tags-announcements-a832b3c3b618116ec11c.js.map"
     ],
     "component---src-templates-tags-js": [
       "component---src-templates-tags-js-4e7fd724fadfb9e96103.js",
@@ -33,12 +33,12 @@
       "path---tags-spotlight-e6212ad74cc9404801f5.js.map"
     ],
     "path---blog-2018-the-future-of-the-kushy-api": [
-      "path---blog-2018-the-future-of-the-kushy-api-6cdbb0b0e4cd8c6d5b55.js",
-      "path---blog-2018-the-future-of-the-kushy-api-6cdbb0b0e4cd8c6d5b55.js.map"
+      "path---blog-2018-the-future-of-the-kushy-api-95509892bbd87592f31b.js",
+      "path---blog-2018-the-future-of-the-kushy-api-95509892bbd87592f31b.js.map"
     ],
     "path---blog-2017-the-start-of-the-future": [
-      "path---blog-2017-the-start-of-the-future-0652e30919295873f0a8.js",
-      "path---blog-2017-the-start-of-the-future-0652e30919295873f0a8.js.map"
+      "path---blog-2017-the-start-of-the-future-24666c2fc696864fbe5e.js",
+      "path---blog-2017-the-start-of-the-future-24666c2fc696864fbe5e.js.map"
     ],
     "component---node-modules-gatsby-plugin-offline-app-shell-js": [
       "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js",
@@ -57,16 +57,16 @@
       "component---src-layouts-index-js-0bfc40d94b04ec39e40b.js.map"
     ],
     "path---index": [
-      "path---index-fe4a8ed92b5091dfb8b7.js",
-      "path---index-fe4a8ed92b5091dfb8b7.js.map"
+      "path---index-d5ce9f33564f4bf5452b.js",
+      "path---index-d5ce9f33564f4bf5452b.js.map"
     ],
     "path---tags-cms": [
       "path---tags-cms-7e2074c4c26a1161836f.js",
       "path---tags-cms-7e2074c4c26a1161836f.js.map"
     ],
     "path---tags-api": [
-      "path---tags-api-4f7b82f08fc7e2fd8c78.js",
-      "path---tags-api-4f7b82f08fc7e2fd8c78.js.map"
+      "path---tags-api-12e5afc6ae7f288cb0c9.js",
+      "path---tags-api-12e5afc6ae7f288cb0c9.js.map"
     ],
     "component---src-pages-404-js": [
       "component---src-pages-404-js-4503918ea3a16cfcdb75.js",
@@ -109,20 +109,20 @@
       "build-js-styles.css.map"
     ],
     "path---blog-2017-kushy-blog-is-alive": [
-      "path---blog-2017-kushy-blog-is-alive-c93f2fe61bd46d0126cf.js",
-      "path---blog-2017-kushy-blog-is-alive-c93f2fe61bd46d0126cf.js.map"
+      "path---blog-2017-kushy-blog-is-alive-d75bd462e8cefa016508.js",
+      "path---blog-2017-kushy-blog-is-alive-d75bd462e8cefa016508.js.map"
     ],
     "path---404": [
       "path---404-a0e39f21c11f6a62c5ab.js",
       "path---404-a0e39f21c11f6a62c5ab.js.map"
     ],
     "path---blog-2018-introducing-kushy-metrc-php-sdk": [
-      "path---blog-2018-introducing-kushy-metrc-php-sdk-0558e99ad407e29fc9a6.js",
-      "path---blog-2018-introducing-kushy-metrc-php-sdk-0558e99ad407e29fc9a6.js.map"
+      "path---blog-2018-introducing-kushy-metrc-php-sdk-c338be4ca877b7aa153a.js",
+      "path---blog-2018-introducing-kushy-metrc-php-sdk-c338be4ca877b7aa153a.js.map"
     ],
     "path---tags-developers": [
-      "path---tags-developers-bffcf8835f2ddebe2a35.js",
-      "path---tags-developers-bffcf8835f2ddebe2a35.js.map"
+      "path---tags-developers-f156778d5456eb23a2df.js",
+      "path---tags-developers-f156778d5456eb23a2df.js.map"
     ]
   }
 }
